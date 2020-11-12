@@ -13,4 +13,5 @@ Link for Search Engine Optimization was fixed and website optimized by adjusting
 
 link to git hub > https://github.com/silvsarah/HTML-Git-CSS
 
-link to the website
+link to the website > https://silvsarah.github.io/HTML-Git-CSS/index.html
+
