@@ -24,11 +24,6 @@ body {
     color: #d9dcd6;
 }
 
-.flex {
-    display: flex;
-    flex-direction: row;
-  }
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,11 +32,16 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav {
+    float: right;
+    margin-top: 25px;
+}
+
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
